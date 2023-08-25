@@ -1,0 +1,17 @@
+name: cupertino_popover
+description: 一个弹窗widget
+homepage: https://github.com/qq1023308356/popover
+
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: ">=2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
